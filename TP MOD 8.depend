@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1699197605 source:c:\struktur data codeblock c++\tp mod 8\tp mod 8\main.cpp
+	<iostream>
+	"DCL.h"
+
+1699199218 c:\struktur data codeblock c++\tp mod 8\tp mod 8\dcl.h
+	<iostream>
+
+1699198576 source:c:\struktur data codeblock c++\tp mod 8\tp mod 8\dcl.cpp
+	<iostream>
+	"DCL.h"
+
